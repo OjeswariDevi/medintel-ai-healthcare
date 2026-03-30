@@ -29,40 +29,40 @@ AI/ML: Machine Learning Models
 ## 📸 Screenshots
 
 ### 🏠 Landing Page
-![Landing Page](screenshots/home.png)
+![Landing Page](MedIntel-main/screenshots/home.png)
 
 ### 📊 User Dashboard
-![Dashboard](screenshots/userdashboard.png)
+![Dashboard]MedIntel-main/screenshots/userdashboard.png)
 
 ### 📝 Health Data Input Form
-![Form](screenshots/patientdataform.png)
+![Form](MedIntel-main/screenshots/patientdataform.png)
 
 ### ❤️ Risk Analysis Result
-![Result](screenshots/resultpage.png)
+![Result](MedIntel-main/screenshots/resultpage.png)
 
 ### 📊 Risk Distribution
-![Chart](screenshots/risklevel-piechart.png)
+![Chart](MedIntel-main/screenshots/risklevel-piechart.png)
 
 ### 📈 Activity Insights
-![Activity](screenshots/recentactivity.jpeg)
+![Activity](MedIntel-main/screenshots/recentactivity.jpeg)
 
 ### 💬 AI Medical Assistant
-![Chat](screenshots/aichatbot.jpeg)
+![Chat](MedIntel-main/screenshots/aichatbot.jpeg)
 
 ### 💊 Medicine Recommendation
-![Medicine](screenshots/medicinerecommendation.jpeg)
+![Medicine](MedIntel-main/screenshots/medicinerecommendation.jpeg)
 
 ### 👨‍⚕️ Patient Chat
-![Patient Chat](screenshots/patientchat.png)
+![Patient Chat](MedIntel-main/screenshots/patientchat.png)
 
 ### 💬 Doctor Chat
-![Doctor Chat](screenshots/doctorchat.png)
+![Doctor Chat](MedIntel-main/screenshots/doctorchat.png)
 
 ### 🧠 Admin Panel
-![Admin](screenshots/doctoradmindashboard.jpeg)
+![Admin](MedIntel-main/screenshots/doctoradmindashboard.jpeg)
 
 ### 🧾 Risk Patients Data
-![Data](screenshots/dataofriskpatients.jpeg)
+![Data](MedIntel-main/screenshots/dataofriskpatients.jpeg)
 ---
 
 ## 👩‍💻 Author
