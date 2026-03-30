@@ -32,7 +32,7 @@ AI/ML: Machine Learning Models
 ![Landing Page](MedIntel-main/screenshots/home.png)
 
 ### 📊 User Dashboard
-![Dashboard]MedIntel-main/screenshots/userdashboard.png)
+![Dashboard](MedIntel-main/screenshots/userdashboard.png)
 
 ### 📝 Health Data Input Form
 ![Form](MedIntel-main/screenshots/patientdataform.png)
@@ -63,7 +63,6 @@ AI/ML: Machine Learning Models
 
 ### 🧾 Risk Patients Data
 ![Data](MedIntel-main/screenshots/dataofriskpatients.jpeg)
----
 
 ## 👩‍💻 Author
 
